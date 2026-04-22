@@ -1,0 +1,18 @@
+Export Manifest - ALL TABLES
+Date Range: 2026-04-04 to 2026-04-17
+Output Dir: 04-17/all_tables
+
+- amazon_ads_sp_campaigns_innerbrightness -> amazon_ads_sp_campaigns_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=2047, exported_rows=442, filtered_by=date)
+- amazon_ads_sp_advertised_product_innerbrightness -> amazon_ads_sp_advertised_product_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=2149, exported_rows=460, filtered_by=date)
+- amazon_ads_sp_search_term_innerbrightness -> amazon_ads_sp_search_term_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=18848, exported_rows=3974, filtered_by=date)
+- amazon_ads_sp_targeting_innerbrightness -> amazon_ads_sp_targeting_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=2382, exported_rows=511, filtered_by=date)
+- amazon_ads_sp_purchased_product_innerbrightness -> amazon_ads_sp_purchased_product_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=736, exported_rows=178, filtered_by=date)
+- amazon_ads_sb_campaign_placement_innerbrightness -> amazon_ads_sb_campaign_placement_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=52, exported_rows=34, filtered_by=date)
+- amazon_ads_sp_campaign_placement_innerbrightness -> amazon_ads_sp_campaign_placement_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=5510, exported_rows=1182, filtered_by=date)
+- amazon_ads_sb_purchased_product_innerbrightness -> amazon_ads_sb_purchased_product_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=60, exported_rows=40, filtered_by=date)
+- amazon_ads_sb_campaigns_innerbrightness -> amazon_ads_sb_campaigns_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=19, exported_rows=13, filtered_by=date)
+- amazon_ads_sb_targeting_innerbrightness -> amazon_ads_sb_targeting_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=89, exported_rows=59, filtered_by=date)
+- amazon_ads_sb_search_term_innerbrightness -> amazon_ads_sb_search_term_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=125, exported_rows=77, filtered_by=date)
+- amazon_3p_inventory_innerbrightness -> amazon_3p_inventory_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=45, exported_rows=45, filtered_by=snapshot_date)
+- amazon_3p_orders_innerbrightness -> amazon_3p_orders_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=75528, exported_rows=7221, filtered_by=purchase_date)
+- amazon_3p_sales_and_traffic_innerbrightness -> amazon_3p_sales_and_traffic_innerbrightness_2026-04-04_to_2026-04-17.csv (source_rows=298, exported_rows=211, filtered_by=report_date)

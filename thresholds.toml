@@ -1,0 +1,24 @@
+[campaign]
+roas_lt = 1.0
+acos_gt = 1.0
+spend_sales_zero_spend_gt = 100.0
+cvr_drop_factor = 0.7
+cpc_rise_factor = 1.3
+min_days_for_trend = 6
+
+[placement]
+min_spend_share = 0.25
+roas_lt = 1.0
+spend_sales_zero_spend_gt = 50.0
+
+[search_term]
+spend_sales_zero_spend_gt = 20.0
+spend_acos_gate = 30.0
+acos_gt = 1.5
+p0_spend_gt = 50.0
+
+[targeting]
+spend_sales_zero_spend_gt = 20.0
+spend_acos_gate = 30.0
+acos_gt = 1.5
+p0_spend_gt = 50.0

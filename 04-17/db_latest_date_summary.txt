@@ -1,0 +1,18 @@
+Database latest date summary
+Overall latest date: 2026-04-20
+
+Per-table:
+- amazon_ads_sp_campaigns_innerbrightness: min=2026-02-06, max=2026-04-20, rows=2047
+- amazon_ads_sp_advertised_product_innerbrightness: min=2026-02-06, max=2026-04-20, rows=2149
+- amazon_ads_sp_search_term_innerbrightness: min=2026-02-06, max=2026-04-20, rows=18848
+- amazon_ads_sp_targeting_innerbrightness: min=2026-02-06, max=2026-04-20, rows=2382
+- amazon_ads_sp_purchased_product_innerbrightness: min=2026-02-06, max=2026-04-20, rows=736
+- amazon_ads_sb_campaign_placement_innerbrightness: min=2026-04-09, max=2026-04-20, rows=52
+- amazon_ads_sp_campaign_placement_innerbrightness: min=2026-02-06, max=2026-04-20, rows=5510
+- amazon_ads_sb_purchased_product_innerbrightness: min=2026-04-10, max=2026-04-20, rows=60
+- amazon_ads_sb_campaigns_innerbrightness: min=2026-04-09, max=2026-04-20, rows=19
+- amazon_ads_sb_targeting_innerbrightness: min=2026-04-09, max=2026-04-20, rows=89
+- amazon_ads_sb_search_term_innerbrightness: min=2026-04-09, max=2026-04-20, rows=125
+- amazon_3p_inventory_innerbrightness: no parseable `date` values or empty table
+- amazon_3p_orders_innerbrightness: no parseable `date` values or empty table
+- amazon_3p_sales_and_traffic_innerbrightness: no parseable `date` values or empty table

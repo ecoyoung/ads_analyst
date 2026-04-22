@@ -1,0 +1,9 @@
+Export Manifest
+Date Range: 2026-04-04 to 2026-04-17
+
+- amazon_ads_sp_campaigns_innerbrightness -> amazon_ads_sp_campaigns_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=442)
+- amazon_ads_sb_campaigns_innerbrightness -> amazon_ads_sb_campaigns_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=13)
+- amazon_ads_sp_search_term_innerbrightness -> amazon_ads_sp_search_term_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=3974)
+- amazon_ads_sb_search_term_innerbrightness -> amazon_ads_sb_search_term_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=77)
+
+Overall latest date across tables: 2026-04-20

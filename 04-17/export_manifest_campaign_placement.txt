@@ -1,0 +1,5 @@
+Export Manifest - campaign_placement
+Date Range: 2026-04-04 to 2026-04-17
+
+- amazon_ads_sp_campaign_placement_innerbrightness -> amazon_ads_sp_campaign_placement_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=1182)
+- amazon_ads_sb_campaign_placement_innerbrightness -> amazon_ads_sb_campaign_placement_innerbrightness_2026-04-04_to_2026-04-17.csv (rows=34)
